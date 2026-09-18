@@ -19,6 +19,14 @@
   </p>
 
   <br />
+
+  <blockquote>
+    <i>"Yazarım, çizerim, okurum, duyarım<br />
+    Görürüm, sezerim, bilirim, hazırım, denizim...<br />
+    Boğul bende, derinlerde. Bahram ner'de, sen orda!"</i> 🎧💥
+  </blockquote>
+
+  <br />
 </div>
 
 ---
